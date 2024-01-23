@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="dbscan1 App Config">a498ce79e97b3110e77000c8b2a42868</app_config>
+        <description/>
+        <extension_point/>
+        <fields>uuid</fields>
+        <icon/>
+        <name>KPI Details</name>
+        <optional_parameters>scoreDate,breakdowns,domain,aggregate,startDate,endDate</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>ac_kpi_details</route_type>
+        <screen_type display_value="KPI Details">ac98ce79897b3110e78e7b80de1a945a</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-18 14:38:04</sys_created_on>
+        <sys_id>a098ce79c67b3110cd178fc1176d925a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KPI Details</sys_name>
+        <sys_package display_value="dbscan" source="x_snc_dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
+        <sys_update_name>sys_ux_app_route_a098ce79c67b3110cd178fc1176d925a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-18 14:38:04</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=a098ce79c67b3110cd178fc1176d925a"/>
+</record_update>
