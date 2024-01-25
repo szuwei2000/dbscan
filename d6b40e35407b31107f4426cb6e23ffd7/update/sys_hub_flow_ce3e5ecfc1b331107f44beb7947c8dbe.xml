@@ -4,14 +4,14 @@
         <acls/>
         <active>true</active>
         <annotation>Send email base on different Database type</annotation>
-        <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=110710000,viewActivatedIn=naturalLanguage</attributes>
+        <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=286449000,viewActivatedIn=naturalLanguage</attributes>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from/>
         <copied_from_name/>
         <description>Send email base on different Database type</description>
         <internal_name>send_email_base_on_different_database_type</internal_name>
-        <label_cache>[{"name":"subflow.database_number","label":"Input➛Database number","type":"string","base_type":"string","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"15a731c5-e086-46cc-bd39-a2f56053aa0a"}},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.type","label":"1 - Look Up Record➛db_info Record➛Type","reference":"","reference_display":"Type","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"type"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record","label":"1 - Look Up Record➛db_info Record","reference":"x_snc_dbscan_db_info","reference_display":"db_info","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.adba_email","label":"1 - Look Up Record➛db_info Record➛ADBA Email","reference":"","reference_display":"ADBA Email","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"adba_email"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.back_up_email","label":"1 - Look Up Record➛db_info Record➛Back up Email","reference":"","reference_display":"Back up Email","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"back_up_email"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.primary_dba_email","label":"1 - Look Up Record➛db_info Record➛Primary DBA Email","reference":"","reference_display":"Primary DBA Email","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"primary_dba_email"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.database_id","label":"1 - Look Up Record➛db_info Record➛Database ID","reference":"","reference_display":"Database ID","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"database_id"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.account_id","label":"1 - Look Up Record➛db_info Record➛Account ID","reference":"","reference_display":"Account ID","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"account_id"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.status","label":"1 - Look Up Record➛Status","reference_display":"Status","type":"choice","base_type":"choice","choices":[{"label":"Error","value":"1","order":0.0},{"label":"Success","value":"0","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.status","label":"1 - Look Up Record➛db_info Record➛Status","reference":"","reference_display":"Status","type":"choice","base_type":"choice","parent_table_name":"x_snc_dbscan_db_info","column_name":"status","choices":[{"label":"-- None --","image":"","rawLabel":"-- None --","selected":false,"missing":false,"used":false,"reference":false,"value":""},{"image":"","rawLabel":"Credential Received \u0026 Validated","selected":false,"label":"Credential Received \u0026 Validated","missing":false,"used":false,"reference":false,"value":"credential_received_validated","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","rawLabel":"Credential Request Sent","selected":false,"label":"Credential Request Sent","missing":false,"used":false,"reference":false,"value":"credential_request_sent","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","rawLabel":"Credentials Received - Failed","selected":false,"label":"Credentials Received - Failed","missing":false,"used":false,"reference":false,"value":"credentials_received_failed","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","rawLabel":"Credential Request Triggered","selected":false,"label":"Credential Request Triggered","missing":false,"used":false,"reference":false,"value":"Credential Request Triggered","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","rawLabel":"Not Started","selected":false,"label":"Not Started","missing":false,"used":false,"reference":false,"value":"not_started","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","rawLabel":"Onboarding to Guardium Completed","selected":false,"label":"Onboarding to Guardium Completed","missing":false,"used":false,"reference":false,"value":"onboarding_to_guardium_completed","parameters":{"name":"x_snc_dbscan_db_info"}}]}]</label_cache>
+        <label_cache>[{"name":"subflow.database_number","label":"Input➛Database number","type":"string","base_type":"string","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"15a731c5-e086-46cc-bd39-a2f56053aa0a"}},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.type","label":"1 - Look Up Record➛db_info Record➛Type","reference":"","reference_display":"Type","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"type"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record","label":"1 - Look Up Record➛db_info Record","reference":"x_snc_dbscan_db_info","reference_display":"db_info","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.adba_email","label":"1 - Look Up Record➛db_info Record➛ADBA Email","reference":"","reference_display":"ADBA Email","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"adba_email"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.back_up_email","label":"1 - Look Up Record➛db_info Record➛Back up Email","reference":"","reference_display":"Back up Email","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"back_up_email"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.primary_dba_email","label":"1 - Look Up Record➛db_info Record➛Primary DBA Email","reference":"","reference_display":"Primary DBA Email","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"primary_dba_email"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.database_id","label":"1 - Look Up Record➛db_info Record➛Database ID","reference":"","reference_display":"Database ID","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"database_id"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.account_id","label":"1 - Look Up Record➛db_info Record➛Account ID","reference":"","reference_display":"Account ID","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"account_id"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.status","label":"1 - Look Up Record➛Status","reference_display":"Status","type":"choice","base_type":"choice","choices":[{"label":"Error","value":"1","order":0.0},{"label":"Success","value":"0","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.status","label":"1 - Look Up Record➛db_info Record➛Status","reference":"","reference_display":"Status","type":"choice","base_type":"choice","parent_table_name":"x_snc_dbscan_db_info","column_name":"status","choices":[{"label":"-- None --","reference":false,"image":"","rawLabel":"-- None --","selected":false,"missing":false,"used":false,"value":""},{"reference":false,"image":"","rawLabel":"Credential Received \u0026 Validated","selected":false,"label":"Credential Received \u0026 Validated","missing":false,"used":false,"value":"credential_received_validated","parameters":{"name":"x_snc_dbscan_db_info"}},{"reference":false,"image":"","rawLabel":"Credential Request Sent","selected":false,"label":"Credential Request Sent","missing":false,"used":false,"value":"credential_request_sent","parameters":{"name":"x_snc_dbscan_db_info"}},{"reference":false,"image":"","rawLabel":"Credentials Received - Failed","selected":false,"label":"Credentials Received - Failed","missing":false,"used":false,"value":"credentials_received_failed","parameters":{"name":"x_snc_dbscan_db_info"}},{"reference":false,"image":"","rawLabel":"Credential Request Triggered","selected":false,"label":"Credential Request Triggered","missing":false,"used":false,"value":"Credential Request Triggered","parameters":{"name":"x_snc_dbscan_db_info"}},{"reference":false,"image":"","rawLabel":"Not Started","selected":false,"label":"Not Started","missing":false,"used":false,"value":"not_started","parameters":{"name":"x_snc_dbscan_db_info"}},{"reference":false,"image":"","rawLabel":"Onboarding to Guardium Completed","selected":false,"label":"Onboarding to Guardium Completed","missing":false,"used":false,"value":"onboarding_to_guardium_completed","parameters":{"name":"x_snc_dbscan_db_info"}}]}]</label_cache>
         <master_snapshot>c71daa43c13731107f44beb7947c8ddf</master_snapshot>
         <name>Send email base on different Database type</name>
         <natlang/>
@@ -30,15 +30,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ce3e5ecfc1b331107f44beb7947c8dbe</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name>Send email base on different Database type</sys_name>
         <sys_overrides/>
         <sys_package display_value="dbscan" source="x_snc_dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_package>
         <sys_policy/>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_update_name>sys_hub_flow_ce3e5ecfc1b331107f44beb7947c8dbe</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:22</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=ce3e5ecfc1b331107f44beb7947c8dbe"/>
@@ -246,10 +246,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-23 13:27:19</sys_created_on>
         <sys_id>1158a793edf331107f44eb8165b69152</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>24</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:22</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
         <ui_id>c353f26f-0c81-4208-8fb4-fd0529026393</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=1158a793edf331107f44eb8165b69152"/>
@@ -275,11 +275,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-23 13:27:20</sys_created_on>
         <sys_id>5558a793edf331107f44eb8165b69155</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:03</sys_updated_on>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:02</sys_updated_on>
         <value>&lt;p&gt;This is for other DB migration.&lt;/p&gt;
-&lt;p&gt;https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/params/sys-id/5d9b15d370a631107f44a29f360a78cc&lt;/p&gt;</value>
+&lt;p&gt; &lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&lt;a style="box-sizing: border-box; background: transparent; color: rgb(var(--now-color--secondary-1, 1, 119, 142)); text-decoration: none; overflow-wrap: break-word;" href="https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/dbaview" rel="nofollow"&gt;https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/dbaview&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</value>
         <variable display_value="Body">ad806bf4a70323008299b39f087901f2</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -386,10 +388,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 13:56:32</sys_created_on>
         <sys_id>6b65ae0bc1f331107f44beb7947c8d02</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>34</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:21</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
         <ui_id>d08ae280-90b1-4b1f-85f4-ced5aa108a47</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=6b65ae0bc1f331107f44beb7947c8d02"/>
@@ -442,9 +444,9 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 13:56:32</sys_created_on>
         <sys_id>ab65ae0bc1f331107f44beb7947c8d04</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:03</sys_updated_on>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:02</sys_updated_on>
         <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
         <value>&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;As part of Vulnerability scanning tool onboarding, we will be setting up new servers for vulnerability scan. To perform vulnerability scans on the following databases, hostnames and/or IP addresses need to be allowed to connect using approved Account ID. Please preform the following steps to set up Account ID.&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&amp;nbsp;&lt;/p&gt;
@@ -455,8 +457,9 @@
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;1. Create the Account ID user in the MySQL database instance with the required hostnames and/or IP addresses&amp;nbsp;&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;2. Populate the complex password that was assigned to the database in ServiceNow portal.&lt;/p&gt;
-&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/params/sys-id/5d9b15d370a631107f44a29f360a78cc&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&lt;a style="box-sizing: border-box; background: transparent; color: rgb(var(--now-color--secondary-1, 1, 119, 142)); text-decoration: none; overflow-wrap: break-word;" href="https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/dbaview"&gt;https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/dbaview&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;Follow the instructions under "MySQL" section of Wiki:&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&lt;a style="color: #0563c1; text-decoration-line: underline;" href="https://wiki.test.com/OnboardingInstructions" rel="nofollow"&gt;https://wiki.test.com/OnboardingInstructions&lt;/a&gt;&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&lt;span class="MsoHyperlink" style="color: #0563c1; text-decoration-line: underline;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
@@ -540,10 +543,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 13:56:32</sys_created_on>
         <sys_id>af656e0bc1f331107f44beb7947c8dce</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>34</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:21</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
         <ui_id>70e24530-7ad9-494f-93c6-95baec0852fb</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=af656e0bc1f331107f44beb7947c8dce"/>
@@ -596,9 +599,9 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 13:56:32</sys_created_on>
         <sys_id>27656e0bc1f331107f44beb7947c8dd1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:03</sys_updated_on>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:02</sys_updated_on>
         <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
         <value>&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;As part of Vulnerability scanning tool onboarding, we will be setting up new servers for vulnerability scan.&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;To perform vulnerability scans on the following databases, hostnames and/or IP addresses&lt;/p&gt;
@@ -612,7 +615,9 @@
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;1. Create the Account ID user in the Oracle database instance with the required hostnames and/or IP addresses.&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;2. Populate the complex password that was assigned to the database in ServiceNow portal.&lt;/p&gt;
-&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/params/sys-id/5d9b15d370a631107f44a29f360a78cc&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&lt;a href="https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/dbaview"&gt;https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/dbaview&lt;/a&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;Follow the instructions under "Oracle" section of Wiki: &lt;a style="color: #0563c1; text-decoration-line: underline;" href="https://wiki.test.com/OnboardingInstructions"&gt;https://wiki.test.com/OnboardingInstructions&lt;/a&gt;&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&amp;nbsp;&lt;/p&gt;
@@ -696,10 +701,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 13:56:32</sys_created_on>
         <sys_id>ef656e0bc1f331107f44beb7947c8dbf</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>34</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:21</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
         <ui_id>25c51a3e-ab29-43b5-803e-a8804dbc220d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=ef656e0bc1f331107f44beb7947c8dbf"/>
@@ -768,10 +773,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:04:47</sys_created_on>
         <sys_id>2457ee8bc1f331107f44beb7947c8db5</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:22</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
         <ui_id>b2990054-b370-47dd-9fb8-e028d533c9c2</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -802,10 +807,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:04:47</sys_created_on>
         <sys_id>5857ee8bc1f331107f44beb7947c8d91</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:22</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
         <ui_id>ba445fa4-e328-4a21-81b1-108c16158fd6</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -837,10 +842,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 13:56:32</sys_created_on>
         <sys_id>63656e0bc1f331107f44beb7947c8de6</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:21</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
         <ui_id>60bb4d57-a918-4d9d-9755-f907250103d4</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -884,10 +889,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-23 13:27:20</sys_created_on>
         <sys_id>9d58a793edf331107f44eb8165b69156</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:22</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
         <ui_id>e83bfb33-1eb1-4823-aa81-3c99c1fcf60a</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -931,10 +936,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 13:56:32</sys_created_on>
         <sys_id>a3656e0bc1f331107f44beb7947c8dec</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:21</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
         <ui_id>256dcf84-ca9d-40c1-9ece-cec862c4c7df</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1004,10 +1009,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:04:47</sys_created_on>
         <sys_id>d057ee8bc1f331107f44beb7947c8d94</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:22</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
         <ui_id>d7f00776-059b-4200-bee0-ad3ed64d906b</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1039,10 +1044,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:04:47</sys_created_on>
         <sys_id>d857ee8bc1f331107f44beb7947c8d8e</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:21</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
         <ui_id>a25624b4-0f12-4277-bf62-edd0fc52e3b5</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1086,10 +1091,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 13:56:32</sys_created_on>
         <sys_id>e3656e0bc1f331107f44beb7947c8dc4</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:21</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
         <ui_id>36e21b8a-bc12-4c71-8a9f-98fdc49d24eb</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1159,10 +1164,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 13:56:32</sys_created_on>
         <sys_id>e7656e0bc1f331107f44beb7947c8de9</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:21</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
         <ui_id>6f7ddd76-c3fb-4cee-890e-b6a920377fbb</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1303,7 +1308,7 @@
         <copied_from_name/>
         <description>Send email base on different Database type</description>
         <internal_name>send_email_base_on_different_database_type</internal_name>
-        <label_cache>[{"name":"subflow.database_number","label":"Input➛Database number","type":"string","base_type":"string","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"15a731c5-e086-46cc-bd39-a2f56053aa0a"}},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.type","label":"1 - Look Up Record➛db_info Record➛Type","reference":"","reference_display":"Type","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"type"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record","label":"1 - Look Up Record➛db_info Record","reference":"x_snc_dbscan_db_info","reference_display":"db_info","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.adba_email","label":"1 - Look Up Record➛db_info Record➛ADBA Email","reference":"","reference_display":"ADBA Email","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"adba_email"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.back_up_email","label":"1 - Look Up Record➛db_info Record➛Back up Email","reference":"","reference_display":"Back up Email","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"back_up_email"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.primary_dba_email","label":"1 - Look Up Record➛db_info Record➛Primary DBA Email","reference":"","reference_display":"Primary DBA Email","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"primary_dba_email"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.database_id","label":"1 - Look Up Record➛db_info Record➛Database ID","reference":"","reference_display":"Database ID","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"database_id"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.account_id","label":"1 - Look Up Record➛db_info Record➛Account ID","reference":"","reference_display":"Account ID","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"account_id"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.status","label":"1 - Look Up Record➛Status","reference_display":"Status","type":"choice","base_type":"choice","choices":[{"label":"Error","value":"1","order":0.0},{"label":"Success","value":"0","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.status","label":"1 - Look Up Record➛db_info Record➛Status","reference":"","reference_display":"Status","type":"choice","base_type":"choice","parent_table_name":"x_snc_dbscan_db_info","column_name":"status","choices":[{"label":"-- None --","image":"","rawLabel":"-- None --","selected":false,"missing":false,"used":false,"reference":false,"value":""},{"image":"","rawLabel":"Credential Received \u0026 Validated","selected":false,"label":"Credential Received \u0026 Validated","missing":false,"used":false,"reference":false,"value":"credential_received_validated","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","rawLabel":"Credential Request Sent","selected":false,"label":"Credential Request Sent","missing":false,"used":false,"reference":false,"value":"credential_request_sent","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","rawLabel":"Credentials Received - Failed","selected":false,"label":"Credentials Received - Failed","missing":false,"used":false,"reference":false,"value":"credentials_received_failed","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","rawLabel":"Credential Request Triggered","selected":false,"label":"Credential Request Triggered","missing":false,"used":false,"reference":false,"value":"Credential Request Triggered","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","rawLabel":"Not Started","selected":false,"label":"Not Started","missing":false,"used":false,"reference":false,"value":"not_started","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","rawLabel":"Onboarding to Guardium Completed","selected":false,"label":"Onboarding to Guardium Completed","missing":false,"used":false,"reference":false,"value":"onboarding_to_guardium_completed","parameters":{"name":"x_snc_dbscan_db_info"}}]}]</label_cache>
+        <label_cache>[{"name":"subflow.database_number","label":"Input➛Database number","type":"string","base_type":"string","attributes":{"sourceUiUniqueId":"","sourceType":"","sourceId":"","uiUniqueId":"15a731c5-e086-46cc-bd39-a2f56053aa0a"}},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.type","label":"1 - Look Up Record➛db_info Record➛Type","reference":"","reference_display":"Type","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"type"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record","label":"1 - Look Up Record➛db_info Record","reference":"x_snc_dbscan_db_info","reference_display":"db_info","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.adba_email","label":"1 - Look Up Record➛db_info Record➛ADBA Email","reference":"","reference_display":"ADBA Email","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"adba_email"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.back_up_email","label":"1 - Look Up Record➛db_info Record➛Back up Email","reference":"","reference_display":"Back up Email","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"back_up_email"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.primary_dba_email","label":"1 - Look Up Record➛db_info Record➛Primary DBA Email","reference":"","reference_display":"Primary DBA Email","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"primary_dba_email"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.database_id","label":"1 - Look Up Record➛db_info Record➛Database ID","reference":"","reference_display":"Database ID","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"database_id"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.account_id","label":"1 - Look Up Record➛db_info Record➛Account ID","reference":"","reference_display":"Account ID","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"account_id"},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.status","label":"1 - Look Up Record➛Status","reference_display":"Status","type":"choice","base_type":"choice","choices":[{"label":"Error","value":"1","order":0.0},{"label":"Success","value":"0","order":1.0}],"attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"25c51a3e-ab29-43b5-803e-a8804dbc220d.Record.status","label":"1 - Look Up Record➛db_info Record➛Status","reference":"","reference_display":"Status","type":"choice","base_type":"choice","parent_table_name":"x_snc_dbscan_db_info","column_name":"status","choices":[{"label":"-- None --","reference":false,"image":"","rawLabel":"-- None --","selected":false,"missing":false,"used":false,"value":""},{"reference":false,"image":"","rawLabel":"Credential Received \u0026 Validated","selected":false,"label":"Credential Received \u0026 Validated","missing":false,"used":false,"value":"credential_received_validated","parameters":{"name":"x_snc_dbscan_db_info"}},{"reference":false,"image":"","rawLabel":"Credential Request Sent","selected":false,"label":"Credential Request Sent","missing":false,"used":false,"value":"credential_request_sent","parameters":{"name":"x_snc_dbscan_db_info"}},{"reference":false,"image":"","rawLabel":"Credentials Received - Failed","selected":false,"label":"Credentials Received - Failed","missing":false,"used":false,"value":"credentials_received_failed","parameters":{"name":"x_snc_dbscan_db_info"}},{"reference":false,"image":"","rawLabel":"Credential Request Triggered","selected":false,"label":"Credential Request Triggered","missing":false,"used":false,"value":"Credential Request Triggered","parameters":{"name":"x_snc_dbscan_db_info"}},{"reference":false,"image":"","rawLabel":"Not Started","selected":false,"label":"Not Started","missing":false,"used":false,"value":"not_started","parameters":{"name":"x_snc_dbscan_db_info"}},{"reference":false,"image":"","rawLabel":"Onboarding to Guardium Completed","selected":false,"label":"Onboarding to Guardium Completed","missing":false,"used":false,"value":"onboarding_to_guardium_completed","parameters":{"name":"x_snc_dbscan_db_info"}}]}]</label_cache>
         <master>true</master>
         <name>Send email base on different Database type</name>
         <natlang/>
@@ -1320,15 +1325,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c71daa43c13731107f44beb7947c8ddf</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_update_name/>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:19</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:17</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow_snapshot>
     <sys_translated_text action="delete_multiple" query="documentkey=c71daa43c13731107f44beb7947c8ddf"/>
@@ -1536,10 +1541,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:30:06</sys_created_on>
         <sys_id>171dea43c13731107f44beb7947c8d48</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:19</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:16</sys_updated_on>
         <ui_id>25c51a3e-ab29-43b5-803e-a8804dbc220d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=171dea43c13731107f44beb7947c8d48"/>
@@ -1599,10 +1604,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:30:07</sys_created_on>
         <sys_id>971dea43c13731107f44beb7947c8d66</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:19</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:17</sys_updated_on>
         <ui_id>d08ae280-90b1-4b1f-85f4-ced5aa108a47</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=971dea43c13731107f44beb7947c8d66"/>
@@ -1655,9 +1660,9 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:30:07</sys_created_on>
         <sys_id>d71dea43c13731107f44beb7947c8d68</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:18</sys_updated_on>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:15</sys_updated_on>
         <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
         <value>&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;As part of Vulnerability scanning tool onboarding, we will be setting up new servers for vulnerability scan. To perform vulnerability scans on the following databases, hostnames and/or IP addresses need to be allowed to connect using approved Account ID. Please preform the following steps to set up Account ID.&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&amp;nbsp;&lt;/p&gt;
@@ -1668,8 +1673,9 @@
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;1. Create the Account ID user in the MySQL database instance with the required hostnames and/or IP addresses&amp;nbsp;&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;2. Populate the complex password that was assigned to the database in ServiceNow portal.&lt;/p&gt;
-&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/params/sys-id/5d9b15d370a631107f44a29f360a78cc&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&lt;a style="box-sizing: border-box; background: transparent; color: rgb(var(--now-color--secondary-1, 1, 119, 142)); text-decoration: none; overflow-wrap: break-word;" href="https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/dbaview"&gt;https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/dbaview&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;Follow the instructions under "MySQL" section of Wiki:&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&lt;a style="color: #0563c1; text-decoration-line: underline;" href="https://wiki.test.com/OnboardingInstructions" rel="nofollow"&gt;https://wiki.test.com/OnboardingInstructions&lt;/a&gt;&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&lt;span class="MsoHyperlink" style="color: #0563c1; text-decoration-line: underline;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
@@ -1753,10 +1759,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:30:06</sys_created_on>
         <sys_id>db1dea43c13731107f44beb7947c8d53</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:19</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:16</sys_updated_on>
         <ui_id>70e24530-7ad9-494f-93c6-95baec0852fb</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=db1dea43c13731107f44beb7947c8d53"/>
@@ -1809,9 +1815,9 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:30:06</sys_created_on>
         <sys_id>131dea43c13731107f44beb7947c8d56</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:18</sys_updated_on>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:15</sys_updated_on>
         <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
         <value>&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;As part of Vulnerability scanning tool onboarding, we will be setting up new servers for vulnerability scan.&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;To perform vulnerability scans on the following databases, hostnames and/or IP addresses&lt;/p&gt;
@@ -1825,7 +1831,9 @@
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;1. Create the Account ID user in the Oracle database instance with the required hostnames and/or IP addresses.&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;2. Populate the complex password that was assigned to the database in ServiceNow portal.&lt;/p&gt;
-&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/params/sys-id/5d9b15d370a631107f44a29f360a78cc&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&lt;a href="https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/dbaview"&gt;https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/dbaview&lt;/a&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;Follow the instructions under "Oracle" section of Wiki: &lt;a style="color: #0563c1; text-decoration-line: underline;" href="https://wiki.test.com/OnboardingInstructions"&gt;https://wiki.test.com/OnboardingInstructions&lt;/a&gt;&lt;/p&gt;
 &lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&amp;nbsp;&lt;/p&gt;
@@ -1909,10 +1917,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-23 13:27:37</sys_created_on>
         <sys_id>f968ab93edf331107f44eb8165b69145</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:19</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:17</sys_updated_on>
         <ui_id>c353f26f-0c81-4208-8fb4-fd0529026393</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f968ab93edf331107f44eb8165b69145"/>
@@ -1952,11 +1960,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-23 13:27:37</sys_created_on>
         <sys_id>f568ab93edf331107f44eb8165b69148</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:18</sys_updated_on>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:15</sys_updated_on>
         <value>&lt;p&gt;This is for other DB migration.&lt;/p&gt;
-&lt;p&gt;https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/params/sys-id/5d9b15d370a631107f44a29f360a78cc&lt;/p&gt;</value>
+&lt;p&gt; &lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif; color: #000000;"&gt;&lt;a style="box-sizing: border-box; background: transparent; color: rgb(var(--now-color--secondary-1, 1, 119, 142)); text-decoration: none; overflow-wrap: break-word;" href="https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/dbaview" rel="nofollow"&gt;https://nowlearning-nlinst01387710-0001.lab.service-now.com/now/dbscan1/home/dbaview&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</value>
         <variable display_value="Body">ad806bf4a70323008299b39f087901f2</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=f968ab93edf331107f44eb8165b69145"/>
@@ -2058,10 +2068,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:30:06</sys_created_on>
         <sys_id>171dea43c13731107f44beb7947c8d3c</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:19</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:17</sys_updated_on>
         <ui_id>b2990054-b370-47dd-9fb8-e028d533c9c2</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2092,10 +2102,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:30:06</sys_created_on>
         <sys_id>1b1dea43c13731107f44beb7947c8d2c</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:19</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:17</sys_updated_on>
         <ui_id>6f7ddd76-c3fb-4cee-890e-b6a920377fbb</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2127,10 +2137,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:30:06</sys_created_on>
         <sys_id>1f1dea43c13731107f44beb7947c8d33</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:19</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:17</sys_updated_on>
         <ui_id>a25624b4-0f12-4277-bf62-edd0fc52e3b5</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2174,10 +2184,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:30:06</sys_created_on>
         <sys_id>471dea43c13731107f44beb7947c8d17</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:19</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:16</sys_updated_on>
         <ui_id>36e21b8a-bc12-4c71-8a9f-98fdc49d24eb</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2248,10 +2258,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:30:06</sys_created_on>
         <sys_id>971dea43c13731107f44beb7947c8d2f</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:19</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:17</sys_updated_on>
         <ui_id>256dcf84-ca9d-40c1-9ece-cec862c4c7df</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2321,10 +2331,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:30:06</sys_created_on>
         <sys_id>971dea43c13731107f44beb7947c8d39</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:19</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:17</sys_updated_on>
         <ui_id>d7f00776-059b-4200-bee0-ad3ed64d906b</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2356,10 +2366,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:30:06</sys_created_on>
         <sys_id>d71dea43c13731107f44beb7947c8d1c</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:19</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:16</sys_updated_on>
         <ui_id>60bb4d57-a918-4d9d-9755-f907250103d4</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2402,10 +2412,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:30:06</sys_created_on>
         <sys_id>db1dea43c13731107f44beb7947c8d36</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:19</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:17</sys_updated_on>
         <ui_id>ba445fa4-e328-4a21-81b1-108c16158fd6</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2437,10 +2447,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-23 13:27:38</sys_created_on>
         <sys_id>f968ab93edf331107f44eb8165b691b9</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:19</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:17</sys_updated_on>
         <ui_id>e83bfb33-1eb1-4823-aa81-3c99c1fcf60a</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2589,7 +2599,7 @@
     <sys_flow_trigger_plan action="delete_multiple" query="plan_id=ce3e5ecfc1b331107f44beb7947c8dbe"/>
     <sys_flow_subflow_plan action="delete_multiple" query="plan_id=ce3e5ecfc1b331107f44beb7947c8dbe^sys_idNOT INa71d2e43c13731107f44beb7947c8d0d"/>
     <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
-        <plan>com.snc.process_flow.engine.ProcessPlan@1f68378</plan>
+        <plan>com.snc.process_flow.engine.ProcessPlan@124c447</plan>
         <plan_id display_value="Send email base on different Database type">ce3e5ecfc1b331107f44beb7947c8dbe</plan_id>
         <snapshot>c71daa43c13731107f44beb7947c8ddf</snapshot>
         <sys_created_by>sc2974</sys_created_by>
@@ -2597,10 +2607,10 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a71d2e43c13731107f44beb7947c8d0d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:10:21</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
     </sys_flow_subflow_plan>
 </record_update>

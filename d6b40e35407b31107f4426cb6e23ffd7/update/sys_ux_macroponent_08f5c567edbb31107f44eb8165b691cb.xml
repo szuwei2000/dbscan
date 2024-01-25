@@ -2549,11 +2549,11 @@
                         "composition": [
                             {
                                 "definition": {
-                                    "id": "4335ba6dca80378f7ba7a67cd6667bec",
+                                    "id": "f4d3254a798ef092d9023d408f257789",
                                     "type": "MACROPONENT"
                                 },
-                                "elementId": "stylized_text_1",
-                                "elementLabel": "Stylized text 1",
+                                "elementId": "display_only_form_1",
+                                "elementLabel": "Display only form 1",
                                 "eventMappings": [
                                     
                                 ],
@@ -2561,25 +2561,43 @@
                                     "type": "JSON_LITERAL",
                                     "value": null
                                 },
+                                "preset": null,
                                 "propertyValues": {
-                                    "css": {
+                                    "forcedViewName": {
                                         "type": "JSON_LITERAL",
-                                        "value": "* { }"
+                                        "value": ""
                                     },
-                                    "tag": {
+                                    "inUiBuilder": {
                                         "type": "JSON_LITERAL",
-                                        "value": "h1"
+                                        "value": true
                                     },
-                                    "text": {
+                                    "query": {
+                                        "type": "JSON_LITERAL",
+                                        "value": ""
+                                    },
+                                    "readOnlyForm": {
+                                        "type": "JSON_LITERAL",
+                                        "value": true
+                                    },
+                                    "sysId": {
                                         "binding": {
                                             "address": [
-                                                "look_up_record_1",
-                                                "result",
-                                                "database_id",
-                                                "displayValue"
+                                                "todoid"
                                             ]
                                         },
-                                        "type": "DATA_OUTPUT_BINDING"
+                                        "type": "STATE_BINDING"
+                                    },
+                                    "table": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "x_snc_dbscan_db_info"
+                                    },
+                                    "view": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "dbview1"
+                                    },
+                                    "workspaceConfigId": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "7b24ceae5304130084acddeeff7b12a3"
                                     }
                                 },
                                 "slot": null,
@@ -2591,7 +2609,7 @@
                                 "children": null,
                                 "items": [
                                     {
-                                        "element_id": "stylized_text_1",
+                                        "element_id": "display_only_form_1",
                                         "styles": {}
                                     }
                                 ],
@@ -2660,53 +2678,13 @@
                     },
                     "overrides": {
                         "composition": [
-                            {
-                                "definition": {
-                                    "id": "4335ba6dca80378f7ba7a67cd6667bec",
-                                    "type": "MACROPONENT"
-                                },
-                                "elementId": "stylized_text_2",
-                                "elementLabel": "Stylized text 2",
-                                "eventMappings": [
-                                    
-                                ],
-                                "isHidden": {
-                                    "type": "JSON_LITERAL",
-                                    "value": null
-                                },
-                                "propertyValues": {
-                                    "css": {
-                                        "type": "JSON_LITERAL",
-                                        "value": "* { }"
-                                    },
-                                    "tag": {
-                                        "type": "JSON_LITERAL",
-                                        "value": "h1"
-                                    },
-                                    "text": {
-                                        "binding": {
-                                            "address": [
-                                                "look_up_record_1",
-                                                "result",
-                                                "hostname",
-                                                "displayValue"
-                                            ]
-                                        },
-                                        "type": "DATA_OUTPUT_BINDING"
-                                    }
-                                },
-                                "slot": null,
-                                "styles": null
-                            }
+                            
                         ],
                         "layout": {
                             "default": {
                                 "children": null,
                                 "items": [
-                                    {
-                                        "element_id": "stylized_text_2",
-                                        "styles": {}
-                                    }
+                                    
                                 ],
                                 "root": null,
                                 "rules": null,
@@ -3199,6 +3177,19 @@
         "selectable": false,
         "typeMetadata": null,
         "valueType": "string"
+    },
+    {
+        "description": "",
+        "fieldType": "string",
+        "id": "clrtqccggliaaccgmccehhhdjjeefmbaam",
+        "inherited": false,
+        "label": "page_view",
+        "mandatory": false,
+        "name": "page_view",
+        "readOnly": false,
+        "selectable": false,
+        "typeMetadata": null,
+        "valueType": "string"
     }
 ]</props>
         <required_translations>[ {
@@ -3251,14 +3242,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-23 20:16:18</sys_created_on>
         <sys_id>08f5c567edbb31107f44eb8165b691cb</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Home default</sys_name>
         <sys_package display_value="dbscan" source="x_snc_dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_package>
         <sys_policy/>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_update_name>sys_ux_macroponent_08f5c567edbb31107f44eb8165b691cb</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-23 20:16:22</sys_updated_on>
+        <sys_updated_by>sc2974</sys_updated_by>
+        <sys_updated_on>2024-01-25 21:35:40</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=08f5c567edbb31107f44eb8165b691cb"/>
 </record_update>

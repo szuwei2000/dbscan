@@ -194,14 +194,14 @@
             },
             "limit": {
                 "type": "JSON_LITERAL",
-                "value": null
+                "value": 10
             },
             "listTitle": {
                 "type": "TRANSLATION_LITERAL",
                 "value": {
                     "code": null,
                     "comment": "",
-                    "message": "All Active Tasks"
+                    "message": "Database List"
                 }
             },
             "maxCharLimit": {
@@ -258,7 +258,7 @@
                         "type": "MACROPONENT"
                     },
                     "elementId": "header_1",
-                    "elementLabel": "Header 1",
+                    "elementLabel": "DB Info",
                     "eventMappings": [
                         
                     ],
@@ -270,37 +270,55 @@
                         "composition": [
                             {
                                 "definition": {
-                                    "id": "4335ba6dca80378f7ba7a67cd6667bec",
+                                    "id": "f4d3254a798ef092d9023d408f257789",
                                     "type": "MACROPONENT"
                                 },
-                                "elementId": "stylized_text_1",
-                                "elementLabel": "Stylized text 1",
+                                "elementId": "display_only_form_1",
+                                "elementLabel": "Display only form 1",
                                 "eventMappings": [
                                     
                                 ],
                                 "isHidden": {
                                     "type": "JSON_LITERAL",
-                                    "value": null
+                                    "value": false
                                 },
+                                "preset": null,
                                 "propertyValues": {
-                                    "css": {
+                                    "forcedViewName": {
                                         "type": "JSON_LITERAL",
-                                        "value": "* { }"
+                                        "value": ""
                                     },
-                                    "tag": {
+                                    "inUiBuilder": {
                                         "type": "JSON_LITERAL",
-                                        "value": "h1"
+                                        "value": true
                                     },
-                                    "text": {
+                                    "query": {
+                                        "type": "JSON_LITERAL",
+                                        "value": ""
+                                    },
+                                    "readOnlyForm": {
+                                        "type": "JSON_LITERAL",
+                                        "value": true
+                                    },
+                                    "sysId": {
                                         "binding": {
                                             "address": [
-                                                "look_up_record_1",
-                                                "result",
-                                                "database_id",
-                                                "displayValue"
+                                                "todoid"
                                             ]
                                         },
-                                        "type": "DATA_OUTPUT_BINDING"
+                                        "type": "STATE_BINDING"
+                                    },
+                                    "table": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "x_snc_dbscan_db_info"
+                                    },
+                                    "view": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "dbaview1"
+                                    },
+                                    "workspaceConfigId": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "7b24ceae5304130084acddeeff7b12a3"
                                     }
                                 },
                                 "slot": null,
@@ -312,7 +330,7 @@
                                 "children": null,
                                 "items": [
                                     {
-                                        "element_id": "stylized_text_1",
+                                        "element_id": "display_only_form_1",
                                         "styles": {}
                                     }
                                 ],
@@ -381,44 +399,6 @@
                     },
                     "overrides": {
                         "composition": [
-                            {
-                                "definition": {
-                                    "id": "4335ba6dca80378f7ba7a67cd6667bec",
-                                    "type": "MACROPONENT"
-                                },
-                                "elementId": "stylized_text_2",
-                                "elementLabel": "Stylized text 2",
-                                "eventMappings": [
-                                    
-                                ],
-                                "isHidden": {
-                                    "type": "JSON_LITERAL",
-                                    "value": null
-                                },
-                                "propertyValues": {
-                                    "css": {
-                                        "type": "JSON_LITERAL",
-                                        "value": "* { }"
-                                    },
-                                    "tag": {
-                                        "type": "JSON_LITERAL",
-                                        "value": "h1"
-                                    },
-                                    "text": {
-                                        "binding": {
-                                            "address": [
-                                                "look_up_record_1",
-                                                "result",
-                                                "hostname",
-                                                "displayValue"
-                                            ]
-                                        },
-                                        "type": "DATA_OUTPUT_BINDING"
-                                    }
-                                },
-                                "slot": null,
-                                "styles": null
-                            },
                             {
                                 "definition": {
                                     "id": "0a530a398537e35bae12515e081fb62b",
@@ -580,10 +560,6 @@
                             "default": {
                                 "children": null,
                                 "items": [
-                                    {
-                                        "element_id": "stylized_text_2",
-                                        "styles": {}
-                                    },
                                     {
                                         "element_id": "input_password_1",
                                         "styles": {}
@@ -834,7 +810,12 @@
                     "items": [
                         {
                             "element_id": "header_1",
-                            "styles": {}
+                            "styles": {
+                                "background": "rgb(var(--now-color--neutral-1))",
+                                "border-color": "RGB(var(--now-color--neutral-5))",
+                                "border-style": "solid",
+                                "border-width": "var(--now-static-space--xxs)"
+                            }
                         },
                         {
                             "element_id": "body_1",
@@ -1042,10 +1023,10 @@
     }
 ]</props>
         <required_translations>[ {
-  "message" : "All Active Tasks",
+  "message" : "Credential Validation",
   "comment" : ""
 }, {
-  "message" : "Credential Validation",
+  "message" : "Database List",
   "comment" : ""
 }, {
   "message" : "Enter a label",
@@ -1076,14 +1057,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-18 21:29:56</sys_created_on>
         <sys_id>4ad6e7fd40ff31107f4426cb6e23ff6d</sys_id>
-        <sys_mod_count>48</sys_mod_count>
+        <sys_mod_count>61</sys_mod_count>
         <sys_name>Home default DBA</sys_name>
         <sys_package display_value="dbscan" source="x_snc_dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_package>
         <sys_policy/>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_update_name>sys_ux_macroponent_4ad6e7fd40ff31107f4426cb6e23ff6d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-19 20:30:36</sys_updated_on>
+        <sys_updated_on>2024-01-25 13:08:32</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=4ad6e7fd40ff31107f4426cb6e23ff6d"/>
 </record_update>
