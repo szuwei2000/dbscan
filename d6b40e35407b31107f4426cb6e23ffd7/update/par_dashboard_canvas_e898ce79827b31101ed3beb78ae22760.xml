@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
     <par_dashboard_canvas action="INSERT_OR_UPDATE">
-        <dashboard display_value="dbscan1">2498ce79fd7b3110cb35b40802ac2561</dashboard>
+        <dashboard display_value="DBA view">2498ce79fd7b3110cb35b40802ac2561</dashboard>
         <dashboard_tab/>
         <layout>[]</layout>
         <sys_class_name>par_dashboard_canvas</sys_class_name>

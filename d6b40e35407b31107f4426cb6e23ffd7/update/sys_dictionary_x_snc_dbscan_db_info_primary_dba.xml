@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-18 14:30:09</sys_created_on>
-        <sys_id>41c6c6f5407b31107f4426cb6e23ffce</sys_id>
         <sys_name>Primary DBA</sys_name>
         <sys_package display_value="dbscan" source="x_snc_dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_package>
         <sys_policy/>

@@ -3,7 +3,7 @@
         <can_read>true</can_read>
         <can_share>false</can_share>
         <can_write>false</can_write>
-        <dashboard display_value="dbscan1">2498ce79fd7b3110cb35b40802ac2561</dashboard>
+        <dashboard display_value="DBA view">2498ce79fd7b3110cb35b40802ac2561</dashboard>
         <group/>
         <role display_value="x_snc_dbscan.dba" name="x_snc_dbscan.dba">66b44e35407b31107f4426cb6e23ff4f</role>
         <sys_class_name>par_dashboard_permission</sys_class_name>

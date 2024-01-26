@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Dbscan 1705587759379</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_dbscan_1705587759379</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-18 14:22:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b0158a75407b31107f4426cb6e23ff0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dbscan 1705587759379</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="dbscan" source="x_snc_dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
+        <sys_update_name>sys_app_module_b0158a75407b31107f4426cb6e23ff0e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-18 14:22:46</sys_updated_on>
+        <timeline_page/>
+        <title>Dbscan 1705587759379</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</application>
+        <file_path/>
+        <instance_id>430d5ae3476735906fbd2535126d43dc</instance_id>
+        <instance_name>nowlearning-nlinst01387710-0001</instance_name>
+        <name>sys_app_module_b0158a75407b31107f4426cb6e23ff0e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Dbscan 1705587759379</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_dbscan_1705587759379</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-18 14:22:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b0158a75407b31107f4426cb6e23ff0e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Dbscan 1705587759379</sys_name><sys_overrides/><sys_package display_value="dbscan" source="x_snc_dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_package><sys_policy/><sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope><sys_update_name>sys_app_module_b0158a75407b31107f4426cb6e23ff0e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-18 14:22:46</sys_updated_on><timeline_page/><title>Dbscan 1705587759379</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1677388071</payload_hash>
+        <record_name>Dbscan 1705587759379</record_name>
+        <reverted_from/>
+        <source>eeb44e35407b31107f4426cb6e23ff4b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-18 14:22:46</sys_created_on>
+        <sys_id>74158a75407b31107f4426cb6e23ff10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d1cf3f6520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-18 14:22:46</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b8158a75647b3110f25bd19df72fc90f</update_guid>
+        <update_guid_history>b8158a75647b3110f25bd19df72fc90f:1677388071</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Dbscan 1705587759379">dbc64af5407b31107f4426cb6e23ffee</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-18 14:30:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>05442241634d4ec680698391d3bb44e4</sys_id>
+        <sys_metadata>b0158a75407b31107f4426cb6e23ff0e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dbscan 1705587759379</sys_name>
+        <sys_package display_value="dbscan" source="x_snc_dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
+        <sys_scope_delete display_value="">99b02cdfb9cc4bba96d262aa476873c9</sys_scope_delete>
+        <sys_update_name>sys_app_module_b0158a75407b31107f4426cb6e23ff0e</sys_update_name>
+        <sys_update_version display_value="sys_app_module_b0158a75407b31107f4426cb6e23ff0e">74158a75407b31107f4426cb6e23ff10</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-18 14:30:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -7,7 +7,7 @@
         <event_mappings>[
     
 ]</event_mappings>
-        <macroponent display_value="db_info">329842b9407b31107f4426cb6e23ff55</macroponent>
+        <macroponent display_value="db_info Record Page">329842b9407b31107f4426cb6e23ff55</macroponent>
         <macroponent_config>{
     "bare": {
         "type": "JSON_LITERAL",

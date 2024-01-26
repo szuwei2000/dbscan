@@ -246,10 +246,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-23 13:27:19</sys_created_on>
         <sys_id>1158a793edf331107f44eb8165b69152</sys_id>
-        <sys_mod_count>24</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>vs511a</sys_updated_by>
-        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
+        <sys_updated_by>sc2974</sys_updated_by>
+        <sys_updated_on>2024-01-25 21:38:45</sys_updated_on>
         <ui_id>c353f26f-0c81-4208-8fb4-fd0529026393</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=1158a793edf331107f44eb8165b69152"/>
@@ -388,10 +388,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 13:56:32</sys_created_on>
         <sys_id>6b65ae0bc1f331107f44beb7947c8d02</sys_id>
-        <sys_mod_count>34</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>vs511a</sys_updated_by>
-        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
+        <sys_updated_by>sc2974</sys_updated_by>
+        <sys_updated_on>2024-01-25 21:38:45</sys_updated_on>
         <ui_id>d08ae280-90b1-4b1f-85f4-ced5aa108a47</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=6b65ae0bc1f331107f44beb7947c8d02"/>
@@ -543,10 +543,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 13:56:32</sys_created_on>
         <sys_id>af656e0bc1f331107f44beb7947c8dce</sys_id>
-        <sys_mod_count>34</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>vs511a</sys_updated_by>
-        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
+        <sys_updated_by>sc2974</sys_updated_by>
+        <sys_updated_on>2024-01-25 21:38:45</sys_updated_on>
         <ui_id>70e24530-7ad9-494f-93c6-95baec0852fb</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=af656e0bc1f331107f44beb7947c8dce"/>
@@ -701,10 +701,10 @@
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 13:56:32</sys_created_on>
         <sys_id>ef656e0bc1f331107f44beb7947c8dbf</sys_id>
-        <sys_mod_count>34</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>vs511a</sys_updated_by>
-        <sys_updated_on>2024-01-25 20:59:19</sys_updated_on>
+        <sys_updated_by>sc2974</sys_updated_by>
+        <sys_updated_on>2024-01-25 21:38:45</sys_updated_on>
         <ui_id>25c51a3e-ab29-43b5-803e-a8804dbc220d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=ef656e0bc1f331107f44beb7947c8dbf"/>
@@ -2599,9 +2599,9 @@
     <sys_flow_trigger_plan action="delete_multiple" query="plan_id=ce3e5ecfc1b331107f44beb7947c8dbe"/>
     <sys_flow_subflow_plan action="delete_multiple" query="plan_id=ce3e5ecfc1b331107f44beb7947c8dbe^sys_idNOT INa71d2e43c13731107f44beb7947c8d0d"/>
     <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
-        <plan>com.snc.process_flow.engine.ProcessPlan@124c447</plan>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_subflow_plan","id":"a71d2e43c13731107f44beb7947c8d0d","name":"plan","plan_signature":null}}</plan>
         <plan_id display_value="Send email base on different Database type">ce3e5ecfc1b331107f44beb7947c8dbe</plan_id>
-        <snapshot>c71daa43c13731107f44beb7947c8ddf</snapshot>
+        <snapshot>93fbe340dd8802107f449527bb378269</snapshot>
         <sys_created_by>sc2974</sys_created_by>
         <sys_created_on>2024-01-22 14:30:08</sys_created_on>
         <sys_domain>global</sys_domain>

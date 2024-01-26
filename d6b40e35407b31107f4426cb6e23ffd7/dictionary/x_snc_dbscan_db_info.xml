@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a0c6c6f5407b31107f4426cb6e23ff91" label="db_info" max_length="40" name="x_snc_dbscan_db_info" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Account ID" max_length="40" name="account_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ADBA" max_length="40" name="adba" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ADBA Email" max_length="40" name="adba_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Application ID" max_length="40" name="application_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Back up DBA" max_length="40" name="back_up_dba" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Back up Email" max_length="40" name="back_up_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Database ID" max_length="40" name="database_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DBA Support Organization" max_length="40" name="dba_support_organization" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Environment" max_length="40" name="environment" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Guardium Test Result" max_length="40" name="guardium_test_result" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Hostname" max_length="40" name="hostname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="password" max_length="40" name="password" type="string"/>
+        <element label="Port" max_length="40" name="port" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Primary DBA" max_length="40" name="primary_dba" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Primary DBA Email" max_length="40" name="primary_dba_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Credential Received &amp; Validated" sequence="0" value="credential_received_validated"/>
+                <element inactive_on_update="false" label="Credential Request Sent" sequence="1" value="credential_request_sent"/>
+                <element inactive_on_update="false" label="Credentials Received - Failed" sequence="2" value="credentials_received_failed"/>
+                <element inactive="true" inactive_on_update="true" label="In Progress" sequence="3" value="in_progress"/>
+                <element inactive_on_update="false" label="Credential Request Triggered" sequence="4" value="Credential Request Triggered"/>
+                <element inactive_on_update="false" label="Not Started" sequence="5" value="not_started"/>
+                <element inactive_on_update="false" label="Onboarding to Guardium Completed" sequence="6" value="onboarding_to_guardium_completed"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Type" max_length="40" name="type" type="string"/>
+    </element>
+</database>
