@@ -11,6 +11,12 @@
         <element attributes="edge_encryption_enabled=true" label="Environment" max_length="40" name="environment" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Guardium Test Result" max_length="40" name="guardium_test_result" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Hostname" max_length="40" name="hostname" type="string"/>
+        <element label="Milestone1" max_length="40" name="milestone1" type="string"/>
+        <element label="Milestone2" max_length="40" name="milestone2" type="string"/>
+        <element label="Milestone2 Completion Date" max_length="40" name="milestone2_completion_date" type="glide_date_time"/>
+        <element label="Milestone3" max_length="40" name="milestone3" type="string"/>
+        <element label="Milestone3 Completion Date" max_length="40" name="milestone3_completion_date" type="glide_date_time"/>
+        <element label="Milestone1 Completion Date" max_length="40" name="milestone_completion_date" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="password" max_length="40" name="password" type="string"/>
         <element label="Port" max_length="40" name="port" type="integer"/>
