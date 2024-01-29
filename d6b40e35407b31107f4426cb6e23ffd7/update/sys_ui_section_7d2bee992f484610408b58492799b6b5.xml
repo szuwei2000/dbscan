@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Database Provisioning Milestones" section_id="7d2bee992f484610408b58492799b6b5" sys_domain="global" table="x_snc_dbscan_db_info" version="3" view="dbaview1">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>milestone1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-29 14:07:52</sys_created_on>
+            <sys_id>022b22d92f484610408b58492799b62f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Database Provisioning Milestones" display_value="Database Provisioning Milestones" name="x_snc_dbscan_db_info" sys_domain="global" view="9974f10cdd4002107f449527bb37821c">7d2bee992f484610408b58492799b6b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-29 14:07:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>milestone2</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-29 14:07:52</sys_created_on>
+            <sys_id>4a2b22d92f484610408b58492799b62f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Database Provisioning Milestones" display_value="Database Provisioning Milestones" name="x_snc_dbscan_db_info" sys_domain="global" view="9974f10cdd4002107f449527bb37821c">7d2bee992f484610408b58492799b6b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-29 14:07:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>milestone3</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-29 14:07:52</sys_created_on>
+            <sys_id>4e2b22d92f484610408b58492799b62f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Database Provisioning Milestones" display_value="Database Provisioning Milestones" name="x_snc_dbscan_db_info" sys_domain="global" view="9974f10cdd4002107f449527bb37821c">7d2bee992f484610408b58492799b6b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-29 14:07:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-29 14:07:52</sys_created_on>
+            <sys_id>422b22d92f484610408b58492799b630</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Database Provisioning Milestones" display_value="Database Provisioning Milestones" name="x_snc_dbscan_db_info" sys_domain="global" view="9974f10cdd4002107f449527bb37821c">7d2bee992f484610408b58492799b6b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-29 14:07:52</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>milestone_completion_date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-29 14:07:52</sys_created_on>
+            <sys_id>462b22d92f484610408b58492799b630</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Database Provisioning Milestones" display_value="Database Provisioning Milestones" name="x_snc_dbscan_db_info" sys_domain="global" view="9974f10cdd4002107f449527bb37821c">7d2bee992f484610408b58492799b6b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-29 14:07:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>milestone2_completion_date</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-29 14:07:52</sys_created_on>
+            <sys_id>4a2b22d92f484610408b58492799b630</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Database Provisioning Milestones" display_value="Database Provisioning Milestones" name="x_snc_dbscan_db_info" sys_domain="global" view="9974f10cdd4002107f449527bb37821c">7d2bee992f484610408b58492799b6b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-29 14:07:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>milestone3_completion_date</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-29 14:07:52</sys_created_on>
+            <sys_id>4e2b22d92f484610408b58492799b630</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Database Provisioning Milestones" display_value="Database Provisioning Milestones" name="x_snc_dbscan_db_info" sys_domain="global" view="9974f10cdd4002107f449527bb37821c">7d2bee992f484610408b58492799b6b5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-29 14:07:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Database Provisioning Milestones</caption>
+            <header>false</header>
+            <name>x_snc_dbscan_db_info</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-29 14:07:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d2bee992f484610408b58492799b6b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_dbscan_db_info</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="dbscan" source="x_snc_dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
+            <sys_update_name>sys_ui_section_7d2bee992f484610408b58492799b6b5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-29 14:07:51</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="dbaview1" name="dbaview1">9974f10cdd4002107f449527bb37821c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
