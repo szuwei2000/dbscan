@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_source">
+    <ais_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <datasource display_value="">x_snc_dbscan_db_info</datasource>
+        <name>db_info</name>
+        <sys_class_name>ais_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-18 14:38:11</sys_created_on>
+        <sys_id>ae9842b9407b31107f4426cb6e23ff2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>db_info</sys_name>
+        <sys_package display_value="dbscan" source="x_snc_dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
+        <sys_update_name>ais_search_source_ae9842b9407b31107f4426cb6e23ff2e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-18 14:38:11</sys_updated_on>
+    </ais_search_source>
+</record_update>

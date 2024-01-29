@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_snc_dbscan_dbscan1_search_profile_default_spell_check_dictionary">e29842b9407b31107f4426cb6e23ff41</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="dbscan1 Search Profile">6c98ce79927b311065338c6df940e567</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-18 14:38:11</sys_created_on>
+        <sys_id>e29842b9407b31107f4426cb6e23ff44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_dbscan_dbscan1_search_profile_default_spell_check_dictionary.dbscan1 Search Profile</sys_name>
+        <sys_package display_value="dbscan" source="x_snc_dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_e29842b9407b31107f4426cb6e23ff44</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-18 14:38:11</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

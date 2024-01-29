@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="DBA view">2498ce79fd7b3110cb35b40802ac2561</dashboard>
+        <group/>
+        <role display_value="x_snc_dbscan.credential_specialist" name="x_snc_dbscan.credential_specialist">22b44e35407b31107f4426cb6e23ff53</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-18 14:38:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>029802b9407b31107f4426cb6e23ffb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2498ce79fd7b3110cb35b40802ac2561</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="dbscan" source="x_snc_dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
+        <sys_update_name>par_dashboard_permission_029802b9407b31107f4426cb6e23ffb3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-18 14:38:09</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

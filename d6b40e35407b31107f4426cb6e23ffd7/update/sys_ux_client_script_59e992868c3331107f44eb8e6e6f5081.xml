@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Home default Credental Specialist">a4e992868c3331107f44eb8e6e6f507c</macroponent>
+        <name>update_db_with_password</name>
+        <preset/>
+        <required_translations>[
+    
+]</required_translations>
+        <script><![CDATA[/**
+* @param {params} params
+* @param {api} params.api
+* @param {any} params.event
+* @param {any} params.imports
+* @param {ApiHelpers} params.helpers
+*/
+function handler({api, event, helpers, imports}) {
+    let updateValue1 = 'status=In Progress';
+    let updateValue2 = "password=" + api.state.password;
+    api.data.update_db_with_password.execute({
+        "table":"x_snc_dbscan_db_info",
+        "recordId":api.state.todoid,
+        "templateFields": updateValue1,
+        "useSetDisplayValue": false
+    });
+    api.data.update_db_with_password.execute({
+        "table":"x_snc_dbscan_db_info",
+        "recordId":api.state.todoid,
+        "templateFields": updateValue2,
+        "useSetDisplayValue": false
+    });
+
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-19 10:32:13</sys_created_on>
+        <sys_id>59e992868c3331107f44eb8e6e6f5081</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>update_db_with_password</sys_name>
+        <sys_package display_value="dbscan" source="x_snc_dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
+        <sys_update_name>sys_ux_client_script_59e992868c3331107f44eb8e6e6f5081</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-19 10:32:13</sys_updated_on>
+        <target>macroponent</target>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

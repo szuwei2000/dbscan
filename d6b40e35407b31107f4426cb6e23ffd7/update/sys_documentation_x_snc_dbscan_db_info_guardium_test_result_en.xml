@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="guardium_test_result" label="Guardium Test Result" language="en" table="x_snc_dbscan_db_info">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>guardium_test_result</element>
+            <help/>
+            <hint/>
+            <label>Guardium Test Result</label>
+            <language>en</language>
+            <name>x_snc_dbscan_db_info</name>
+            <plural>Guardium Test Results</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-18 14:30:09</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Guardium Test Result</sys_name>
+            <sys_package display_value="dbscan" source="x_snc_dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_dbscan_db_info_guardium_test_result_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-18 14:30:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
