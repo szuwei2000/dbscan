@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>milestone_completion_date</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-31 18:37:02</sys_created_on>
+        <sys_id>ccfb714a2fc80a10408b58492799b651</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>milestone_completion_date</sys_name>
+        <sys_package display_value="dbscan" source="x_snc_dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
+        <sys_update_name>sys_ui_policy_action_ccfb714a2fc80a10408b58492799b651</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-31 18:37:02</sys_updated_on>
+        <table>x_snc_dbscan_db_info</table>
+        <ui_policy display_value="field value populated">04fb714a2fc80a10408b58492799b64d</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

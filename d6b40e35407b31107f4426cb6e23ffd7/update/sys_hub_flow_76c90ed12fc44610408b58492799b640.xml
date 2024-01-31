@@ -4,14 +4,14 @@
         <acls/>
         <active>true</active>
         <annotation/>
-        <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=7353000,viewActivatedIn=naturalLanguage</attributes>
+        <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=209951000,viewActivatedIn=naturalLanguage</attributes>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from/>
         <copied_from_name/>
         <description>Database security check</description>
         <internal_name>db_security_check</internal_name>
-        <label_cache>[{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record.guardium_test_result","label":"4 - Update Record➛db_info Record➛Guardium Test Result","reference":"","reference_display":"Guardium Test Result","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"guardium_test_result"},{"name":"0b73c016-f183-4d07-a0e3-fd46cb0ee059.record","label":"10 - Update Record➛db_info Record","reference":"x_snc_dbscan_db_info","reference_display":"db_info","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"bc40fa51-a573-493d-bb67-426a96867a8b.load_azure_status","label":"11 - load_credential_to_azure_keyvalut➛load azure status","reference_display":"load azure status","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1394993a-8bdb-4ac9-ae32-ed2e44a627b3"}},{"name":"0b73c016-f183-4d07-a0e3-fd46cb0ee059.record.number","label":"10 - Update Record➛db_info Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"number"},{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record.number","label":"4 - Update Record➛db_info Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"number"},{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record.password","label":"4 - Update Record➛db_info Record➛password","reference":"","reference_display":"password","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"password"},{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record.account_id","label":"4 - Update Record➛db_info Record➛Account ID","reference":"","reference_display":"Account ID","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"account_id"},{"name":"Updated_1.current.guardium_test_result","label":"Trigger - Record Updated➛db_info Record➛Guardium Test Result","reference":"","reference_display":"Guardium Test Result","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"guardium_test_result"},{"name":"Updated_1.current.number","label":"Trigger - Record Updated➛db_info Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"number"},{"name":"Updated_1.current","label":"Trigger - Record Updated➛db_info Record","reference":"x_snc_dbscan_db_info","reference_display":"db_info","type":"reference","base_type":"reference","attributes":{}},{"name":"Updated_1.current.status","label":"Trigger - Record Updated➛db_info Record➛Status","reference":"","reference_display":"Status","type":"choice","base_type":"choice","parent_table_name":"x_snc_dbscan_db_info","column_name":"status","choices":[{"label":"-- None --","image":"","used":false,"rawLabel":"-- None --","selected":false,"missing":false,"reference":false,"value":""},{"image":"","used":false,"label":"Credential Received \u0026 Validated","rawLabel":"Credential Received \u0026 Validated","selected":false,"missing":false,"reference":false,"value":"credential_received_validated","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Credential Request Sent","rawLabel":"Credential Request Sent","selected":false,"missing":false,"reference":false,"value":"credential_request_sent","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Credentials Received - Failed","rawLabel":"Credentials Received - Failed","selected":false,"missing":false,"reference":false,"value":"credentials_received_failed","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Credential Request Triggered","rawLabel":"Credential Request Triggered","selected":false,"missing":false,"reference":false,"value":"Credential Request Triggered","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Not Started","rawLabel":"Not Started","selected":false,"missing":false,"reference":false,"value":"not_started","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Onboarding to Guardium Completed","rawLabel":"Onboarding to Guardium Completed","selected":false,"missing":false,"reference":false,"value":"onboarding_to_guardium_completed","parameters":{"name":"x_snc_dbscan_db_info"}}]},{"name":"Updated_1.current.dba_support_organization","label":"Trigger - Record Updated➛db_info Record➛DBA Support Organization","reference":"","reference_display":"DBA Support Organization","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"dba_support_organization"},{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record","label":"4 - Update Record➛db_info Record","reference":"x_snc_dbscan_db_info","reference_display":"db_info","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <label_cache>[{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record.guardium_test_result","label":"4 - Update Record➛db_info Record➛Guardium Test Result","reference":"","reference_display":"Guardium Test Result","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"guardium_test_result"},{"name":"0b73c016-f183-4d07-a0e3-fd46cb0ee059.record","label":"11 - Update Record➛db_info Record","reference":"x_snc_dbscan_db_info","reference_display":"db_info","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"bc40fa51-a573-493d-bb67-426a96867a8b.load_azure_status","label":"13 - load_credential_to_azure_keyvalut➛load azure status","reference_display":"load azure status","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1394993a-8bdb-4ac9-ae32-ed2e44a627b3"}},{"name":"0b73c016-f183-4d07-a0e3-fd46cb0ee059.record.number","label":"11 - Update Record➛db_info Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"number"},{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record.number","label":"4 - Update Record➛db_info Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"number"},{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record.password","label":"4 - Update Record➛db_info Record➛password","reference":"","reference_display":"password","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"password"},{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record.account_id","label":"4 - Update Record➛db_info Record➛Account ID","reference":"","reference_display":"Account ID","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"account_id"},{"name":"Updated_1.current.guardium_test_result","label":"Trigger - Record Updated➛db_info Record➛Guardium Test Result","reference":"","reference_display":"Guardium Test Result","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"guardium_test_result"},{"name":"Updated_1.current.number","label":"Trigger - Record Updated➛db_info Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"number"},{"name":"Updated_1.current","label":"Trigger - Record Updated➛db_info Record","reference":"x_snc_dbscan_db_info","reference_display":"db_info","type":"reference","base_type":"reference","attributes":{}},{"name":"Updated_1.current.status","label":"Trigger - Record Updated➛db_info Record➛Status","reference":"","reference_display":"Status","type":"choice","base_type":"choice","parent_table_name":"x_snc_dbscan_db_info","column_name":"status","choices":[{"label":"-- None --","image":"","used":false,"rawLabel":"-- None --","selected":false,"missing":false,"reference":false,"value":""},{"image":"","used":false,"label":"Credential Received \u0026 Validated","rawLabel":"Credential Received \u0026 Validated","selected":false,"missing":false,"reference":false,"value":"credential_received_validated","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Credential Request Sent","rawLabel":"Credential Request Sent","selected":false,"missing":false,"reference":false,"value":"credential_request_sent","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Credentials Received - Failed","rawLabel":"Credentials Received - Failed","selected":false,"missing":false,"reference":false,"value":"credentials_received_failed","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Credential Request Triggered","rawLabel":"Credential Request Triggered","selected":false,"missing":false,"reference":false,"value":"Credential Request Triggered","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Not Started","rawLabel":"Not Started","selected":false,"missing":false,"reference":false,"value":"not_started","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Onboarding to Guardium Completed","rawLabel":"Onboarding to Guardium Completed","selected":false,"missing":false,"reference":false,"value":"onboarding_to_guardium_completed","parameters":{"name":"x_snc_dbscan_db_info"}}]},{"name":"Updated_1.current.dba_support_organization","label":"Trigger - Record Updated➛db_info Record➛DBA Support Organization","reference":"","reference_display":"DBA Support Organization","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"dba_support_organization"},{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record","label":"4 - Update Record➛db_info Record","reference":"x_snc_dbscan_db_info","reference_display":"db_info","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
         <master_snapshot>36d5a6152f484610408b58492799b61f</master_snapshot>
         <name>DB security check</name>
         <natlang/>
@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>76c90ed12fc44610408b58492799b640</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>25</sys_mod_count>
         <sys_name>DB security check</sys_name>
         <sys_overrides/>
         <sys_package display_value="dbscan" source="x_snc_dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_update_name>sys_hub_flow_76c90ed12fc44610408b58492799b640</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:49</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:35</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=76c90ed12fc44610408b58492799b640"/>
@@ -78,14 +78,14 @@
         <identifier>76c90ed12fc44610408b58492799b640</identifier>
         <runner>FDTriggerRunner</runner>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-01-29 13:44:48</sys_created_on>
-        <sys_id>3fd5e6152f484610408b58492799b614</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_created_on>2024-01-31 22:01:33</sys_created_on>
+        <sys_id>48caa28e2f8c0a10408b58492799b603</sys_id>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:48</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:33</sys_updated_on>
         <trigger display_value="">73d5e6152f484610408b58492799b614</trigger>
     </sys_trigger_runner_mapping>
-    <sys_trigger_runner_mapping action="delete_multiple" query="identifier=76c90ed12fc44610408b58492799b640^sys_idNOT IN3fd5e6152f484610408b58492799b614"/>
+    <sys_trigger_runner_mapping action="delete_multiple" query="identifier=76c90ed12fc44610408b58492799b640^sys_idNOT IN48caa28e2f8c0a10408b58492799b603"/>
     <sys_hub_trigger_instance action="delete_multiple" query="flow=76c90ed12fc44610408b58492799b640^sys_idNOT IN131aca152fc44610408b58492799b607"/>
     <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
         <comment/>
@@ -96,10 +96,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 11:43:30</sys_created_on>
         <sys_id>131aca152fc44610408b58492799b607</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>25</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:48</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:33</sys_updated_on>
         <trigger_definition display_value="Updated">bb695e60c31322002841b63b12d3aea5</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -227,14 +227,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 11:43:30</sys_created_on>
         <sys_id>071a82d92f844610408b58492799b63a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:48</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:33</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -311,14 +311,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 11:43:30</sys_created_on>
         <sys_id>531aca152fc44610408b58492799b602</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:48</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:33</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -434,10 +434,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:22</sys_created_on>
         <sys_id>21c5a2152f484610408b58492799b619</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>56</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:49</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-31 22:06:13</sys_updated_on>
         <ui_id>96d63b60-8c2c-49d1-b7ae-ff73521c4304</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=21c5a2152f484610408b58492799b619"/>
@@ -523,10 +523,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 12:18:54</sys_created_on>
         <sys_id>3932de5d2fc44610408b58492799b61e</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>58</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:49</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-31 22:06:13</sys_updated_on>
         <ui_id>80945873-a685-4274-b01a-75518fd56081</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=3932de5d2fc44610408b58492799b61e"/>
@@ -606,16 +606,16 @@
         <comment/>
         <display_text/>
         <flow display_value="DB security check">76c90ed12fc44610408b58492799b640</flow>
-        <order>10</order>
+        <order>11</order>
         <parent_ui_id>a73a23a5-5419-439a-9525-c5cd1dbe6676</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:22</sys_created_on>
         <sys_id>e5c5a2152f484610408b58492799b621</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>56</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:49</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-31 22:06:13</sys_updated_on>
         <ui_id>0b73c016-f183-4d07-a0e3-fd46cb0ee059</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=e5c5a2152f484610408b58492799b621"/>
@@ -714,10 +714,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 12:15:09</sys_created_on>
         <sys_id>fa519e1d2fc44610408b58492799b676</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>60</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:49</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-31 22:06:13</sys_updated_on>
         <ui_id>aee6a99f-150a-48f8-aff2-0641993911e1</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=fa519e1d2fc44610408b58492799b676"/>
@@ -743,10 +743,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 12:15:09</sys_created_on>
         <sys_id>7e519e1d2fc44610408b58492799b679</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 12:15:09</sys_updated_on>
-        <value>status=credential_request_sent^milestone1=Sent email to DBA^milestone_completion_date=fd-scripted^milestone2=Load to Guardium^milestone3=Load to Azure Keyvault</value>
+        <sys_updated_on>2024-01-31 11:22:08</sys_updated_on>
+        <value>status=credential_request_sent^milestone1=Sent email to DBA^milestone_completion_date=fd-scripted^milestone2=Load to Guardium &amp; Validate^milestone3=Load to Azure Keyvault</value>
         <variable display_value="Fields">02d01916c31332002841b63b12d3aeee</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=fa519e1d2fc44610408b58492799b676"/>
@@ -810,16 +810,16 @@
         <comment/>
         <display_text/>
         <flow display_value="DB security check">76c90ed12fc44610408b58492799b640</flow>
-        <order>13</order>
+        <order>15</order>
         <parent_ui_id>0f585081-c63e-498b-a971-5a710aa0de61</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:22</sys_created_on>
         <sys_id>fdc5a2152f484610408b58492799b63d</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>56</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:49</sys_updated_on>
+        <sys_updated_by>vs511a</sys_updated_by>
+        <sys_updated_on>2024-01-31 22:06:13</sys_updated_on>
         <ui_id>bd59c6e0-8bb5-4f8f-9972-3360c10e4c30</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=fdc5a2152f484610408b58492799b63d"/>
@@ -919,10 +919,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:21</sys_created_on>
         <sys_id>11c5a2152f484610408b58492799b601</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>42</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:49</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:34</sys_updated_on>
         <ui_id>56d112ef-60c5-42c6-a5c7-9f66caa0c602</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=11c5a2152f484610408b58492799b601"/>
@@ -1102,10 +1102,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 12:15:08</sys_created_on>
         <sys_id>26519e1d2fc44610408b58492799b636</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:48</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:34</sys_updated_on>
         <ui_id>9e9bb71e-a311-4953-9a1d-e070beab6ccd</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=26519e1d2fc44610408b58492799b636"/>
@@ -1241,7 +1241,7 @@
         <flow display_value="DB security check">76c90ed12fc44610408b58492799b640</flow>
         <inputs/>
         <inputs/>
-        <order>11</order>
+        <order>13</order>
         <parent_ui_id>a73a23a5-5419-439a-9525-c5cd1dbe6676</parent_ui_id>
         <subflow display_value="load_credential_to_azure_keyvalut">91d22e112f484610408b58492799b635</subflow>
         <subflow_instance_inputs/>
@@ -1249,10 +1249,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:22</sys_created_on>
         <sys_id>e1c5a2152f484610408b58492799b624</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>42</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:49</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:34</sys_updated_on>
         <ui_id>bc40fa51-a573-493d-bb67-426a96867a8b</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=e1c5a2152f484610408b58492799b624"/>
@@ -1381,7 +1381,69 @@
         <xml_view>false</xml_view>
     </sys_hub_sub_flow_instance_inputs>
     <sys_hub_input_scripts action="delete_multiple" query="instance=e1c5a2152f484610408b58492799b624"/>
-    <sys_hub_flow_logic action="delete_multiple" query="flow=76c90ed12fc44610408b58492799b640^sys_idNOT IN35c5a2152f484610408b58492799b643,39c5a2152f484610408b58492799b640,410f06992fc44610408b58492799b661,61c5a2152f484610408b58492799b634,7d32de5d2fc44610408b58492799b621,7e519e1d2fc44610408b58492799b66c"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=76c90ed12fc44610408b58492799b640^sys_idNOT IN1d99348e2f840a10408b58492799b67a,35c5a2152f484610408b58492799b643,39c5a2152f484610408b58492799b640,410f06992fc44610408b58492799b661,5999348e2f840a10408b58492799b683,61c5a2152f484610408b58492799b634,7d32de5d2fc44610408b58492799b621,7e519e1d2fc44610408b58492799b66c"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">5199348e2f840a10408b58492799b67a</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="DB security check">76c90ed12fc44610408b58492799b640</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Wait for a duration of time">fdb2541473031300b61e66476bf6a70e</logic_definition>
+        <order>9</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>b09235da-cfac-453e-810f-c5cf4bbb0908</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-31 13:47:06</sys_created_on>
+        <sys_id>1d99348e2f840a10408b58492799b67a</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-31 22:01:34</sys_updated_on>
+        <ui_id>ce0527eb-f499-497e-b213-e4ac784a4a8e</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=1d99348e2f840a10408b58492799b67a"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>1d99348e2f840a10408b58492799b67a</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-31 13:47:06</sys_created_on>
+        <sys_id>1999348e2f840a10408b58492799b680</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-31 13:47:06</sys_updated_on>
+        <value/>
+        <variable display_value="Timer relative duration operator">dca4105473031300b61e66476bf6a726</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>1d99348e2f840a10408b58492799b67a</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-31 13:47:06</sys_created_on>
+        <sys_id>dd99348e2f840a10408b58492799b680</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-31 22:00:55</sys_updated_on>
+        <value>1970-01-01 00:00:03</value>
+        <variable display_value="Duration">ef145c1473031300b61e66476bf6a7be</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_fdb2541473031300b61e66476bf6a70e^id=1d99348e2f840a10408b58492799b67a"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=1d99348e2f840a10408b58492799b67a"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=1d99348e2f840a10408b58492799b67a"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <attributes/>
         <block display_value="">bdc5a2152f484610408b58492799b642</block>
@@ -1396,7 +1458,7 @@
         <flow_variables_assigned/>
         <inputs/>
         <logic_definition display_value="End">d176605ea76103004f27b0d2187901c7</logic_definition>
-        <order>15</order>
+        <order>17</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>a73a23a5-5419-439a-9525-c5cd1dbe6676</parent_ui_id>
@@ -1404,10 +1466,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:22</sys_created_on>
         <sys_id>35c5a2152f484610408b58492799b643</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:49</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:35</sys_updated_on>
         <ui_id>09a52bbe-dd1a-4203-873f-e8a669cf3349</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1429,7 +1491,7 @@
         <flow_variables_assigned/>
         <inputs/>
         <logic_definition display_value="End">d176605ea76103004f27b0d2187901c7</logic_definition>
-        <order>14</order>
+        <order>16</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>0f585081-c63e-498b-a971-5a710aa0de61</parent_ui_id>
@@ -1437,10 +1499,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:22</sys_created_on>
         <sys_id>39c5a2152f484610408b58492799b640</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:49</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:35</sys_updated_on>
         <ui_id>d23945a6-f8e6-4577-a934-230180aab1b6</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1471,10 +1533,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 12:04:56</sys_created_on>
         <sys_id>410f06992fc44610408b58492799b661</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>24</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:48</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:33</sys_updated_on>
         <ui_id>a73a23a5-5419-439a-9525-c5cd1dbe6676</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1523,6 +1585,68 @@
     <sys_hub_input_scripts action="delete_multiple" query="instance=410f06992fc44610408b58492799b661"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <attributes/>
+        <block display_value="">9199348e2f840a10408b58492799b683</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="DB security check">76c90ed12fc44610408b58492799b640</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Wait for a duration of time">fdb2541473031300b61e66476bf6a70e</logic_definition>
+        <order>12</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>a73a23a5-5419-439a-9525-c5cd1dbe6676</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-31 13:47:06</sys_created_on>
+        <sys_id>5999348e2f840a10408b58492799b683</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-31 22:01:34</sys_updated_on>
+        <ui_id>05a3a1f8-6033-4589-801a-addbb84f0536</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=5999348e2f840a10408b58492799b683"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>5999348e2f840a10408b58492799b683</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-31 13:47:07</sys_created_on>
+        <sys_id>5999348e2f840a10408b58492799b687</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-31 22:00:55</sys_updated_on>
+        <value>1970-01-01 00:00:03</value>
+        <variable display_value="Duration">ef145c1473031300b61e66476bf6a7be</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>5999348e2f840a10408b58492799b683</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-31 13:47:06</sys_created_on>
+        <sys_id>9599348e2f840a10408b58492799b687</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-31 13:47:06</sys_updated_on>
+        <value/>
+        <variable display_value="Timer relative duration operator">dca4105473031300b61e66476bf6a726</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_fdb2541473031300b61e66476bf6a70e^id=5999348e2f840a10408b58492799b683"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=5999348e2f840a10408b58492799b683"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=5999348e2f840a10408b58492799b683"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">e5c5a2152f484610408b58492799b633</block>
         <comment/>
         <connected_to/>
@@ -1536,7 +1660,7 @@
         <inputs/>
         <inputs/>
         <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
-        <order>12</order>
+        <order>14</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>a73a23a5-5419-439a-9525-c5cd1dbe6676</parent_ui_id>
@@ -1544,10 +1668,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:22</sys_created_on>
         <sys_id>61c5a2152f484610408b58492799b634</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:49</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:34</sys_updated_on>
         <ui_id>0f585081-c63e-498b-a971-5a710aa0de61</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1617,10 +1741,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 12:18:54</sys_created_on>
         <sys_id>7d32de5d2fc44610408b58492799b621</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:49</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:34</sys_updated_on>
         <ui_id>b09235da-cfac-453e-810f-c5cf4bbb0908</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1690,10 +1814,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 12:15:09</sys_created_on>
         <sys_id>7e519e1d2fc44610408b58492799b66c</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>23</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:49</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:34</sys_updated_on>
         <ui_id>14b7404f-402d-4d50-ab2a-758a70308a7a</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1827,7 +1951,7 @@
         <copied_from_name/>
         <description>Database security check</description>
         <internal_name>db_security_check</internal_name>
-        <label_cache>[{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record.guardium_test_result","label":"4 - Update Record➛db_info Record➛Guardium Test Result","reference":"","reference_display":"Guardium Test Result","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"guardium_test_result"},{"name":"0b73c016-f183-4d07-a0e3-fd46cb0ee059.record","label":"10 - Update Record➛db_info Record","reference":"x_snc_dbscan_db_info","reference_display":"db_info","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"bc40fa51-a573-493d-bb67-426a96867a8b.load_azure_status","label":"11 - load_credential_to_azure_keyvalut➛load azure status","reference_display":"load azure status","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1394993a-8bdb-4ac9-ae32-ed2e44a627b3"}},{"name":"0b73c016-f183-4d07-a0e3-fd46cb0ee059.record.number","label":"10 - Update Record➛db_info Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"number"},{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record.number","label":"4 - Update Record➛db_info Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"number"},{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record.password","label":"4 - Update Record➛db_info Record➛password","reference":"","reference_display":"password","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"password"},{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record.account_id","label":"4 - Update Record➛db_info Record➛Account ID","reference":"","reference_display":"Account ID","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"account_id"},{"name":"Updated_1.current.guardium_test_result","label":"Trigger - Record Updated➛db_info Record➛Guardium Test Result","reference":"","reference_display":"Guardium Test Result","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"guardium_test_result"},{"name":"Updated_1.current.number","label":"Trigger - Record Updated➛db_info Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"number"},{"name":"Updated_1.current","label":"Trigger - Record Updated➛db_info Record","reference":"x_snc_dbscan_db_info","reference_display":"db_info","type":"reference","base_type":"reference","attributes":{}},{"name":"Updated_1.current.status","label":"Trigger - Record Updated➛db_info Record➛Status","reference":"","reference_display":"Status","type":"choice","base_type":"choice","parent_table_name":"x_snc_dbscan_db_info","column_name":"status","choices":[{"label":"-- None --","image":"","used":false,"rawLabel":"-- None --","selected":false,"missing":false,"reference":false,"value":""},{"image":"","used":false,"label":"Credential Received \u0026 Validated","rawLabel":"Credential Received \u0026 Validated","selected":false,"missing":false,"reference":false,"value":"credential_received_validated","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Credential Request Sent","rawLabel":"Credential Request Sent","selected":false,"missing":false,"reference":false,"value":"credential_request_sent","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Credentials Received - Failed","rawLabel":"Credentials Received - Failed","selected":false,"missing":false,"reference":false,"value":"credentials_received_failed","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Credential Request Triggered","rawLabel":"Credential Request Triggered","selected":false,"missing":false,"reference":false,"value":"Credential Request Triggered","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Not Started","rawLabel":"Not Started","selected":false,"missing":false,"reference":false,"value":"not_started","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Onboarding to Guardium Completed","rawLabel":"Onboarding to Guardium Completed","selected":false,"missing":false,"reference":false,"value":"onboarding_to_guardium_completed","parameters":{"name":"x_snc_dbscan_db_info"}}]},{"name":"Updated_1.current.dba_support_organization","label":"Trigger - Record Updated➛db_info Record➛DBA Support Organization","reference":"","reference_display":"DBA Support Organization","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"dba_support_organization"},{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record","label":"4 - Update Record➛db_info Record","reference":"x_snc_dbscan_db_info","reference_display":"db_info","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <label_cache>[{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record.guardium_test_result","label":"4 - Update Record➛db_info Record➛Guardium Test Result","reference":"","reference_display":"Guardium Test Result","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"guardium_test_result"},{"name":"0b73c016-f183-4d07-a0e3-fd46cb0ee059.record","label":"11 - Update Record➛db_info Record","reference":"x_snc_dbscan_db_info","reference_display":"db_info","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"bc40fa51-a573-493d-bb67-426a96867a8b.load_azure_status","label":"13 - load_credential_to_azure_keyvalut➛load azure status","reference_display":"load azure status","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"1394993a-8bdb-4ac9-ae32-ed2e44a627b3"}},{"name":"0b73c016-f183-4d07-a0e3-fd46cb0ee059.record.number","label":"11 - Update Record➛db_info Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"number"},{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record.number","label":"4 - Update Record➛db_info Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"number"},{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record.password","label":"4 - Update Record➛db_info Record➛password","reference":"","reference_display":"password","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"password"},{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record.account_id","label":"4 - Update Record➛db_info Record➛Account ID","reference":"","reference_display":"Account ID","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"account_id"},{"name":"Updated_1.current.guardium_test_result","label":"Trigger - Record Updated➛db_info Record➛Guardium Test Result","reference":"","reference_display":"Guardium Test Result","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"guardium_test_result"},{"name":"Updated_1.current.number","label":"Trigger - Record Updated➛db_info Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"number"},{"name":"Updated_1.current","label":"Trigger - Record Updated➛db_info Record","reference":"x_snc_dbscan_db_info","reference_display":"db_info","type":"reference","base_type":"reference","attributes":{}},{"name":"Updated_1.current.status","label":"Trigger - Record Updated➛db_info Record➛Status","reference":"","reference_display":"Status","type":"choice","base_type":"choice","parent_table_name":"x_snc_dbscan_db_info","column_name":"status","choices":[{"label":"-- None --","image":"","used":false,"rawLabel":"-- None --","selected":false,"missing":false,"reference":false,"value":""},{"image":"","used":false,"label":"Credential Received \u0026 Validated","rawLabel":"Credential Received \u0026 Validated","selected":false,"missing":false,"reference":false,"value":"credential_received_validated","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Credential Request Sent","rawLabel":"Credential Request Sent","selected":false,"missing":false,"reference":false,"value":"credential_request_sent","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Credentials Received - Failed","rawLabel":"Credentials Received - Failed","selected":false,"missing":false,"reference":false,"value":"credentials_received_failed","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Credential Request Triggered","rawLabel":"Credential Request Triggered","selected":false,"missing":false,"reference":false,"value":"Credential Request Triggered","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Not Started","rawLabel":"Not Started","selected":false,"missing":false,"reference":false,"value":"not_started","parameters":{"name":"x_snc_dbscan_db_info"}},{"image":"","used":false,"label":"Onboarding to Guardium Completed","rawLabel":"Onboarding to Guardium Completed","selected":false,"missing":false,"reference":false,"value":"onboarding_to_guardium_completed","parameters":{"name":"x_snc_dbscan_db_info"}}]},{"name":"Updated_1.current.dba_support_organization","label":"Trigger - Record Updated➛db_info Record➛DBA Support Organization","reference":"","reference_display":"DBA Support Organization","type":"string","base_type":"string","parent_table_name":"x_snc_dbscan_db_info","column_name":"dba_support_organization"},{"name":"aee6a99f-150a-48f8-aff2-0641993911e1.record","label":"4 - Update Record➛db_info Record","reference":"x_snc_dbscan_db_info","reference_display":"db_info","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
         <master>true</master>
         <name>DB security check</name>
         <natlang/>
@@ -1844,7 +1968,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>36d5a6152f484610408b58492799b61f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -1852,7 +1976,7 @@
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:43</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:29</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow_snapshot>
     <sys_translated_text action="delete_multiple" query="documentkey=36d5a6152f484610408b58492799b61f"/>
@@ -1867,10 +1991,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:45</sys_created_on>
         <sys_id>dfd5a6152f484610408b58492799b68c</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:48</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:33</sys_updated_on>
         <trigger_definition display_value="Updated">bb695e60c31322002841b63b12d3aea5</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -1939,7 +2063,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>child_label=FDChangeDetails,child_name=FDChangeDetails,child_type=object,child_type_label=Object,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,pwd2droppable=true,uiType=array.object,uiTypeLabel=Array.Object</attributes>
+        <attributes>child_label=FDChangeDetails,child_name=FDChangeDetails,child_type=object,child_type_label=Object,co_type_name=FDCollection,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,pwd2droppable=true,uiType=array.object,uiTypeLabel=Array.Object</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -1998,14 +2122,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:44</sys_created_on>
         <sys_id>07d5a6152f484610408b58492799b63f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:44</sys_updated_on>
+        <sys_updated_on>2024-01-31 11:09:35</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -2023,7 +2147,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id,uiTypeLabel=Document ID</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -2082,14 +2206,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:43</sys_created_on>
         <sys_id>b6d5a6152f484610408b58492799b621</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:43</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:27</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -2107,7 +2231,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -2166,14 +2290,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:44</sys_created_on>
         <sys_id>c3d5a6152f484610408b58492799b647</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:44</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:27</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -2199,16 +2323,16 @@
         <comment/>
         <display_text/>
         <flow display_value="DB security check">36d5a6152f484610408b58492799b61f</flow>
-        <order>13</order>
+        <order>15</order>
         <parent_ui_id>0f585081-c63e-498b-a971-5a710aa0de61</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:45</sys_created_on>
         <sys_id>1fd5a6152f484610408b58492799b68a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:45</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:29</sys_updated_on>
         <ui_id>bd59c6e0-8bb5-4f8f-9972-3360c10e4c30</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=1fd5a6152f484610408b58492799b68a"/>
@@ -2301,16 +2425,16 @@
         <comment/>
         <display_text/>
         <flow display_value="DB security check">36d5a6152f484610408b58492799b61f</flow>
-        <order>10</order>
+        <order>11</order>
         <parent_ui_id>a73a23a5-5419-439a-9525-c5cd1dbe6676</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:45</sys_created_on>
         <sys_id>5bd5a6152f484610408b58492799b684</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:45</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:29</sys_updated_on>
         <ui_id>0b73c016-f183-4d07-a0e3-fd46cb0ee059</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=5bd5a6152f484610408b58492799b684"/>
@@ -2409,10 +2533,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:45</sys_created_on>
         <sys_id>d3d5a6152f484610408b58492799b67e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:45</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:28</sys_updated_on>
         <ui_id>96d63b60-8c2c-49d1-b7ae-ff73521c4304</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=d3d5a6152f484610408b58492799b67e"/>
@@ -2498,10 +2622,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:45</sys_created_on>
         <sys_id>d7d5a6152f484610408b58492799b676</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:45</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:28</sys_updated_on>
         <ui_id>80945873-a685-4274-b01a-75518fd56081</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=d7d5a6152f484610408b58492799b676"/>
@@ -2587,10 +2711,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:45</sys_created_on>
         <sys_id>dbd5a6152f484610408b58492799b66c</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:45</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:28</sys_updated_on>
         <ui_id>aee6a99f-150a-48f8-aff2-0641993911e1</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=dbd5a6152f484610408b58492799b66c"/>
@@ -2616,10 +2740,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:45</sys_created_on>
         <sys_id>d7d5a6152f484610408b58492799b66e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:45</sys_updated_on>
-        <value>status=credential_request_sent^milestone1=Sent email to DBA^milestone_completion_date=fd-scripted^milestone2=Load to Guardium^milestone3=Load to Azure Keyvault</value>
+        <sys_updated_on>2024-01-31 11:26:14</sys_updated_on>
+        <value>status=credential_request_sent^milestone1=Sent email to DBA^milestone_completion_date=fd-scripted^milestone2=Load to Guardium &amp; Validate^milestone3=Load to Azure Keyvault</value>
         <variable display_value="Fields">02d01916c31332002841b63b12d3aeee</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=dbd5a6152f484610408b58492799b66c"/>
@@ -2690,10 +2814,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:45</sys_created_on>
         <sys_id>17d5a6152f484610408b58492799b68f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:45</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:28</sys_updated_on>
         <ui_id>9e9bb71e-a311-4953-9a1d-e070beab6ccd</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=17d5a6152f484610408b58492799b68f"/>
@@ -2829,7 +2953,7 @@
         <flow display_value="DB security check">36d5a6152f484610408b58492799b61f</flow>
         <inputs/>
         <inputs/>
-        <order>11</order>
+        <order>13</order>
         <parent_ui_id>a73a23a5-5419-439a-9525-c5cd1dbe6676</parent_ui_id>
         <subflow display_value="load_credential_to_azure_keyvalut">91d22e112f484610408b58492799b635</subflow>
         <subflow_instance_inputs/>
@@ -2837,10 +2961,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:46</sys_created_on>
         <sys_id>abd5a6152f484610408b58492799b6ae</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:46</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:29</sys_updated_on>
         <ui_id>bc40fa51-a573-493d-bb67-426a96867a8b</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=abd5a6152f484610408b58492799b6ae"/>
@@ -2984,10 +3108,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:45</sys_created_on>
         <sys_id>dbd5a6152f484610408b58492799b6a1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:46</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:28</sys_updated_on>
         <ui_id>56d112ef-60c5-42c6-a5c7-9f66caa0c602</ui_id>
     </sys_hub_sub_flow_instance>
     <sys_variable_value action="delete_multiple" query="document_key=dbd5a6152f484610408b58492799b6a1"/>
@@ -3152,7 +3276,7 @@
         <xml_view>false</xml_view>
     </sys_hub_sub_flow_instance_inputs>
     <sys_hub_input_scripts action="delete_multiple" query="instance=dbd5a6152f484610408b58492799b6a1"/>
-    <sys_hub_flow_logic action="delete_multiple" query="flow=36d5a6152f484610408b58492799b61f^sys_idNOT IN07d5a6152f484610408b58492799b65a,0bd5a6152f484610408b58492799b652,0fd5a6152f484610408b58492799b661,4bd5a6152f484610408b58492799b664,c3d5a6152f484610408b58492799b65e,cbd5a6152f484610408b58492799b656"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=36d5a6152f484610408b58492799b61f^sys_idNOT IN07d5a6152f484610408b58492799b65a,0bd5a6152f484610408b58492799b652,0fd5a6152f484610408b58492799b661,4bd5a6152f484610408b58492799b664,67b9f88e2f840a10408b58492799b63c,c3d5a6152f484610408b58492799b65e,cbd5a6152f484610408b58492799b656,efb9f88e2f840a10408b58492799b636"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <attributes/>
         <block display_value="">b532de5d2fc44610408b58492799b621</block>
@@ -3176,10 +3300,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:44</sys_created_on>
         <sys_id>07d5a6152f484610408b58492799b65a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_scope/>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:44</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:28</sys_updated_on>
         <ui_id>b09235da-cfac-453e-810f-c5cf4bbb0908</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -3249,10 +3373,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:44</sys_created_on>
         <sys_id>0bd5a6152f484610408b58492799b652</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_scope/>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:44</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:28</sys_updated_on>
         <ui_id>a73a23a5-5419-439a-9525-c5cd1dbe6676</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -3313,7 +3437,7 @@
         <flow_variables_assigned/>
         <inputs/>
         <logic_definition display_value="End">d176605ea76103004f27b0d2187901c7</logic_definition>
-        <order>14</order>
+        <order>16</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>0f585081-c63e-498b-a971-5a710aa0de61</parent_ui_id>
@@ -3321,10 +3445,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:44</sys_created_on>
         <sys_id>0fd5a6152f484610408b58492799b661</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_scope/>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:44</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:29</sys_updated_on>
         <ui_id>d23945a6-f8e6-4577-a934-230180aab1b6</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -3346,7 +3470,7 @@
         <flow_variables_assigned/>
         <inputs/>
         <logic_definition display_value="End">d176605ea76103004f27b0d2187901c7</logic_definition>
-        <order>15</order>
+        <order>17</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>a73a23a5-5419-439a-9525-c5cd1dbe6676</parent_ui_id>
@@ -3354,10 +3478,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:44</sys_created_on>
         <sys_id>4bd5a6152f484610408b58492799b664</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_scope/>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:45</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:29</sys_updated_on>
         <ui_id>09a52bbe-dd1a-4203-873f-e8a669cf3349</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -3365,6 +3489,68 @@
     <sys_variable_value action="delete_multiple" query="document_key=4bd5a6152f484610408b58492799b664"/>
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=4bd5a6152f484610408b58492799b664"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=4bd5a6152f484610408b58492799b664"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">9199348e2f840a10408b58492799b683</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="DB security check">36d5a6152f484610408b58492799b61f</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Wait for a duration of time">fdb2541473031300b61e66476bf6a70e</logic_definition>
+        <order>12</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>a73a23a5-5419-439a-9525-c5cd1dbe6676</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-31 13:47:48</sys_created_on>
+        <sys_id>67b9f88e2f840a10408b58492799b63c</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-31 22:01:29</sys_updated_on>
+        <ui_id>05a3a1f8-6033-4589-801a-addbb84f0536</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=67b9f88e2f840a10408b58492799b63c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>67b9f88e2f840a10408b58492799b63c</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-31 13:47:48</sys_created_on>
+        <sys_id>67b9f88e2f840a10408b58492799b640</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-31 22:01:27</sys_updated_on>
+        <value>1970-01-01 00:00:03</value>
+        <variable display_value="Duration">ef145c1473031300b61e66476bf6a7be</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>67b9f88e2f840a10408b58492799b63c</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-31 13:47:48</sys_created_on>
+        <sys_id>a3b9f88e2f840a10408b58492799b640</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-31 13:47:48</sys_updated_on>
+        <value/>
+        <variable display_value="Timer relative duration operator">dca4105473031300b61e66476bf6a726</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_fdb2541473031300b61e66476bf6a70e^id=67b9f88e2f840a10408b58492799b63c"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=67b9f88e2f840a10408b58492799b63c"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=67b9f88e2f840a10408b58492799b63c"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <attributes/>
         <block display_value="">e5c5a2152f484610408b58492799b633</block>
@@ -3380,7 +3566,7 @@
         <inputs/>
         <inputs/>
         <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
-        <order>12</order>
+        <order>14</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id>a73a23a5-5419-439a-9525-c5cd1dbe6676</parent_ui_id>
@@ -3388,10 +3574,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:44</sys_created_on>
         <sys_id>c3d5a6152f484610408b58492799b65e</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_scope/>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:44</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:29</sys_updated_on>
         <ui_id>0f585081-c63e-498b-a971-5a710aa0de61</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -3461,10 +3647,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:44</sys_created_on>
         <sys_id>cbd5a6152f484610408b58492799b656</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_scope/>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:44</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:28</sys_updated_on>
         <ui_id>14b7404f-402d-4d50-ab2a-758a70308a7a</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -3511,6 +3697,68 @@
     </sys_element_mapping>
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=cbd5a6152f484610408b58492799b656"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=cbd5a6152f484610408b58492799b656"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">5199348e2f840a10408b58492799b67a</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="DB security check">36d5a6152f484610408b58492799b61f</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Wait for a duration of time">fdb2541473031300b61e66476bf6a70e</logic_definition>
+        <order>9</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>b09235da-cfac-453e-810f-c5cf4bbb0908</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-31 13:47:48</sys_created_on>
+        <sys_id>efb9f88e2f840a10408b58492799b636</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_scope display_value="dbscan">d6b40e35407b31107f4426cb6e23ffd7</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-31 22:01:28</sys_updated_on>
+        <ui_id>ce0527eb-f499-497e-b213-e4ac784a4a8e</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=efb9f88e2f840a10408b58492799b636"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>efb9f88e2f840a10408b58492799b636</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-31 13:47:48</sys_created_on>
+        <sys_id>6bb9f88e2f840a10408b58492799b63b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-31 22:01:27</sys_updated_on>
+        <value>1970-01-01 00:00:03</value>
+        <variable display_value="Duration">ef145c1473031300b61e66476bf6a7be</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>efb9f88e2f840a10408b58492799b636</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-31 13:47:48</sys_created_on>
+        <sys_id>a7b9f88e2f840a10408b58492799b63b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-31 13:47:48</sys_updated_on>
+        <value/>
+        <variable display_value="Timer relative duration operator">dca4105473031300b61e66476bf6a726</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_flow_logic_input_fdb2541473031300b61e66476bf6a70e^id=efb9f88e2f840a10408b58492799b636"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=efb9f88e2f840a10408b58492799b636"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=efb9f88e2f840a10408b58492799b636"/>
     <sys_hub_pill_compound action="delete_multiple" query="attached_to=36d5a6152f484610408b58492799b61f"/>
     <sys_hub_flow_variable action="delete_multiple" query="model=36d5a6152f484610408b58492799b61f"/>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_36d5a6152f484610408b58492799b61f^sys_idNOT IN0fd5a6152f484610408b58492799b63b,c7d5a6152f484610408b58492799b64b,cbd5a6152f484610408b58492799b643"/>
@@ -3589,24 +3837,24 @@
     <sys_hub_flow action="UPDATE">
         <sys_id>76c90ed12fc44610408b58492799b640</sys_id>
         <latest_snapshot>36d5a6152f484610408b58492799b61f</latest_snapshot>
-        <compiler_build/>
+        <compiler_build>glide-vancouver-07-06-2023__patch2-hotfix1-10-04-2023_10-06-2023_1235.zip</compiler_build>
     </sys_hub_flow>
     <sys_flow_trigger_plan action="delete_multiple" query="plan_id=76c90ed12fc44610408b58492799b640^sys_idNOT IN80e5e6152f484610408b58492799b616"/>
     <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
         <binding_strategy>com.snc.process_flow.engine.binding.Every</binding_strategy>
-        <plan/>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"80e5e6152f484610408b58492799b616","name":"plan","plan_signature":null}}</plan>
         <plan_id>76c90ed12fc44610408b58492799b640</plan_id>
-        <snapshot>36d5a6152f484610408b58492799b61f</snapshot>
+        <snapshot>4cdb2ace2f8c0a10408b58492799b655</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 13:44:48</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>80e5e6152f484610408b58492799b616</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 13:44:48</sys_updated_on>
+        <sys_updated_on>2024-01-31 22:01:33</sys_updated_on>
         <trigger display_value="">73d5e6152f484610408b58492799b614</trigger>
     </sys_flow_trigger_plan>
     <sys_flow_subflow_plan action="delete_multiple" query="plan_id=76c90ed12fc44610408b58492799b640"/>
